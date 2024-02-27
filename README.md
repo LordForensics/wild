@@ -5,7 +5,7 @@ Diplômé du titre professionel de **Technicien Supérieur et Réseaux**, je sui
 
 ## **Formation**
  * **Baccalauréat Scientifique** obtenu avec _Mention Assez Bien_ en Juin 2005
- * **Titre Professionnel de _Techicien Supérieur Systèmes et Réseaux_** obtenu en Mai 2023 via la [WildCodeSchool](https://www.wildcodeschool.com/fr-fr/)
+ * **Titre Professionnel de _Techicien Supérieur Systèmes et Réseaux_** obtenu en Mai 2023 via la **[WildCodeSchool](https://www.wildcodeschool.com/fr-fr/)**
 
 
 ## **Expériences Professionnelles**
