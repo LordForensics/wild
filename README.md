@@ -5,7 +5,7 @@ Diplômé du titre professionel de **Technicien Supérieur et Réseaux**, je sui
 Je n'en reste pas moins père de 4 enfants, je suis friand de tous ces moments en famille 
 C'est pourquoi, je souhaiterais me rapprocher d'eux, afin de profiter de chaque moment
 
-## **Formation**
+## **Formations**
  * **Baccalauréat Scientifique** obtenu avec _Mention Assez Bien_ en Juin 2005
  * **Titre Professionnel de _Techicien Supérieur Systèmes et Réseaux_** obtenu en Mai 2023 via la **[WildCodeSchool](https://www.wildcodeschool.com/fr-fr/)**
 
