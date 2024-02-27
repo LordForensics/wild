@@ -8,7 +8,7 @@ Diplômé du titre professionel de **Technicien Supérieur et Réseaux**, je sui
 
 ## **Expériences Professionnelles**
 1. **[NASA](https://www.nasa.gov/)**
- > Installation de serveurs dans les navettes avant lancement
+ > Installation de serveurs dans les navettes avant lancement 
  > Gestion de l'infrastructure
 
 
