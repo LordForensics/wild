@@ -1,8 +1,8 @@
 # **Anthony Javault**
 ![MaPhoto](https://github.com/LordForensics/wild/blob/main/Picsmini_CV.jpg)
 
-Diplômé du titre professionel de **Technicien Supérieur et Réseaux**, je suis passionné d'informatique depuis mon plus jeune âge 
-Je n'en reste pas moins père de 4 enfants, je suis friand de tous ces moments en famille 
+Diplômé du titre professionel de **Technicien Supérieur et Réseaux**, je suis passionné d'informatique depuis mon plus jeune âge  
+Je n'en reste pas moins père de 4 enfants, je suis friand de tous ces moments en famille  
 C'est pourquoi, je souhaiterais me rapprocher d'eux, afin de profiter de chaque moment
 
 ## **Formations**
