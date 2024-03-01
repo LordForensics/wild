@@ -1,6 +1,24 @@
 # **Veille Technologique**
 
+
+
+
 ![Logo Google](https://github.com/LordForensics/wild/blob/main/google.jpeg) ![IA](https://github.com/LordForensics/wild/blob/main/ia.jpeg) ![News](https://github.com/LordForensics/wild/blob/main/journalism.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## L'avenir du journalisme à la sauce Google
