@@ -130,11 +130,11 @@ Vous trouverez également les commandes utilisées dans pour trouver les _cmdlet
 >
 >Name                              Category  Module                    Synopsis
 >
->Export-Alias                      Cmdlet    Microsoft.PowerShell.U... ...
->Get-Alias                         Cmdlet    Microsoft.PowerShell.U... ...
->Import-Alias                      Cmdlet    Microsoft.PowerShell.U... ...
->New-Alias                         Cmdlet    Microsoft.PowerShell.U... ...
->Set-Alias                         Cmdlet    Microsoft.PowerShell.U... ...
+>Export-Alias                      Cmdlet    Microsoft.PowerShell.U  
+>Get-Alias                         Cmdlet    Microsoft.PowerShell.U  
+>Import-Alias                      Cmdlet    Microsoft.PowerShell.U  
+>New-Alias                         Cmdlet    Microsoft.PowerShell.U  
+>Set-Alias                         Cmdlet    Microsoft.PowerShell.U  
 >
 >PS C:\Users\forensics> Get-Help New-Alias
 >
