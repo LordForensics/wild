@@ -166,5 +166,16 @@ Vous trouverez également les commandes utilisées dans pour trouver les _cmdlet
 >    cat
 >    type
 
+## Résumé des commandes sous forme de tableau
 
+|Recherche|Commandes PowerShell|Commandes Unix|
+|:-:|:-:|:-:|
+|get-help cp|copy-item|cp|
+|get-help rm|remove-item|rm|
+|get-help cd|set-location|cd|
+|get-help mkdir|new-item|mkdir|
+|get-help man|get-help|man|
+|get-help history|get-history|history|
+|get-help alias|new-alias|alias|
+|get-help cat|get-content|cat|
 
